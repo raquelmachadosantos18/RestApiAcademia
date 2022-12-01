@@ -1,0 +1,66 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Magali",
+            "sobrenome": "Conceição",
+            "idade": 57,
+            "categoria_id": "Bronze"
+        },
+        {
+            "id": 2,
+            "nome": "Heloisa",
+            "sobrenome": "Machado",
+            "idade": 23,
+            "categoria_id": "Ouro"
+        },
+        {
+            "id": 3,
+            "nome": "Felipe",
+            "sobrenome": "Pontes",
+            "idade": 27,
+            "categoria_id": "Prata"
+        }
+    ],
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Ouro",
+            "valor": "R$ 150",
+            "image": "https://i.pinimg.com/474x/c3/5e/a8/c35ea8538b9afd549c9c7d9673862f8b.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Prata",
+            "valor": "R$ 100",
+
+            "image": "https://www.pngall.com/wp-content/uploads/2017/03/Silver-Medal-Free-Download-PNG.png"
+        },
+        {
+            "id": 3,
+            "nome": "Bronze",
+            "valor": "R$ 50",
+            "image": "https://library.kissclipart.com/20200424/tqw/kissclipart-gold-medal-a54598eb3a84d987.png"
+        }
+    ],
+    "servicos": [
+        {
+            "id": 1,
+            "nome": "Ouro",
+            "servicos": "Musculação, Aulas Coletivas, Spar",
+            "avaliacao": "Avaliação gratuita"
+        },
+        {
+            "id": 2,
+            "nome": "Prata",
+            "servicos": "Musculação, Aulas Coletivas",
+            "avaliacao": "Avaliação R$ 30"
+        },
+        {
+            "id": 3,
+            "nome": "Bronze",
+            "servicos": "Musculação",
+            "avaliacao": "Avaliação R$ 45"
+        }
+    ]
+}
